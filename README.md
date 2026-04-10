@@ -76,7 +76,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Krunal Sawarkar**
 - Email: [krunalsawarkar2004@gmail.com]
 
 ---
